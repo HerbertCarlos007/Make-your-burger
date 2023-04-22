@@ -19,3 +19,10 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.main-container {
+  margin: 50px;
+  min-height: 250px;
+}
+</style>
