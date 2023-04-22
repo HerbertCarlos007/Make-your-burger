@@ -20,6 +20,6 @@ export default {
 <style scoped>
 .main-container {
   margin: 50px;
-  height: 600px;
+  min-height: 600px;
 }
 </style>
